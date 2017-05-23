@@ -1,11 +1,19 @@
 {
   "name": "cfeng_hello",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "npm test",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/allen405/cfeng_hello"
+  },
+  "keywords": [
+    "cfeng",
+    "cfeng_hello"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "cfeng",
   "license": "ISC"
 }
